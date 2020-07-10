@@ -15,6 +15,7 @@
 		EC060C5124B81E440052FEF4 /* MyCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC060C5024B81E440052FEF4 /* MyCollectionViewController.swift */; };
 		EC060C5524B81E850052FEF4 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC060C5424B81E850052FEF4 /* Data.swift */; };
 		EC060C5824B820640052FEF4 /* ShowCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC060C5724B820640052FEF4 /* ShowCollectionViewCell.swift */; };
+		EC060C5A24B82DAB0052FEF4 /* BigImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC060C5924B82DAB0052FEF4 /* BigImageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		EC060C5024B81E440052FEF4 /* MyCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewController.swift; sourceTree = "<group>"; };
 		EC060C5424B81E850052FEF4 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		EC060C5724B820640052FEF4 /* ShowCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowCollectionViewCell.swift; sourceTree = "<group>"; };
+		EC060C5924B82DAB0052FEF4 /* BigImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BigImageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				EC060C5024B81E440052FEF4 /* MyCollectionViewController.swift */,
 				EC060C5724B820640052FEF4 /* ShowCollectionViewCell.swift */,
+				EC060C5924B82DAB0052FEF4 /* BigImageViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC060C3D24B81E1B0052FEF4 /* AppDelegate.swift in Sources */,
+				EC060C5A24B82DAB0052FEF4 /* BigImageViewController.swift in Sources */,
 				EC060C3F24B81E1B0052FEF4 /* SceneDelegate.swift in Sources */,
 				EC060C5124B81E440052FEF4 /* MyCollectionViewController.swift in Sources */,
 				EC060C5524B81E850052FEF4 /* Data.swift in Sources */,
